@@ -1,0 +1,101 @@
+*       {
+    box-sizing: border-box;
+}
+
+body        {
+    background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+div {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+li      {
+    padding: auto;
+margin: 10px auto;
+    color: #16a085;
+}
+
+a {
+    color: black;
+    }
+    
+a:link {
+    color: black;
+    }
+    
+a:visited {
+    color: black}
+
+a:hover {
+    color: white;
+}
+
+.container      {
+    background-color: white;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding: auto;
+   height: 415px; 
+   width: 350px ;
+}
+
+.top        {
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    width: 95%;
+    height: 50%;
+    border-radius: 10px;
+    margin: 0px auto;
+    position: relative; 
+    top: -30px;
+    text-align: center;
+}
+
+.image      {
+        width: 125px;
+        height: 125px;
+        border-radius: 50%;
+        margin: 5% 32%;
+}
+
+.name   {
+        font-size: 50px;
+        margin-top: -25px;
+        margin-bottom: 0px;
+        color: white;
+}
+
+.job        {
+      font-size: 15px;
+      margin-top: -5px;
+      color: white;
+}
+
+.bottom     {
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    width: 95%;
+    height: 15%;
+    margin: 25px auto 0px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.fab {
+    position: relative;
+    margin: auto;
+    padding: 7%;
+    font-size: 35px;
+}
+
+.fas        {
+    font-size: 25px;
+    margin-left: -30px;
+    margin-right: 25px;
+    float: left;
+}
+
+#pon {
+        margin-left: -26px;
+        margin-right: 29px;
+}
+
